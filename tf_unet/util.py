@@ -82,13 +82,20 @@ def crop_to_shape(data, shape):
     :param data: the array to crop
     :param shape: the target shape
     """
-    offset0 = (data.shape[1] - shape[1])//2
-    offset1 = (data.shape[2] - shape[2])//2
-    return data[:, offset0:(-offset0), offset1:(-offset1)]
+    if len(data.shape)==4:
+
+        offset0 = (data.shape[1] - shape[1])//2
+        offset1 = (data.shape[2] - shape[2])//2
+        data_ = data[:, offset0:(-offset0), offset1:(-offset1)]
+
+    else:
+        data_ = data
+
+    return data_
 
 def combine_img_prediction(data, gt, pred):
     """
-    Combines the data, grouth thruth and the prediction into one rgb image
+    Combines the data, grouth thruth and the prediction into one rgb image  
     
     :param data: the data tensor
     :param gt: the ground thruth tensor

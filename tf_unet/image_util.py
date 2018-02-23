@@ -84,21 +84,52 @@ class BaseDataProvider(object):
         return data, labels
     
     def __call__(self, n):
-        train_data, labels = self._load_data_and_label()
-        nx = train_data.shape[1]
-        ny = train_data.shape[2]
-    
-        X = np.zeros((n, nx, ny, self.channels))
-        Y = np.zeros((n, nx, ny, self.n_class))
-    
-        X[0] = train_data
-        Y[0] = labels
-        for i in range(1, n):
+        depth = self.kwargs.get('depth_3d',None)
+        if depth is None:
             train_data, labels = self._load_data_and_label()
-            X[i] = train_data
-            Y[i] = labels
+            nx = train_data.shape[1]
+            ny = train_data.shape[2]
+
+            X = np.zeros((n, nx, ny, self.channels))
+            Y = np.zeros((n, nx, ny, self.n_class))
+
+            X[0] = train_data
+            Y[0] = labels
+            for i in range(1, n):
+                train_data, labels = self._load_data_and_label()
+                X[i] = train_data
+                Y[i] = labels
     
-        return X, Y
+            return X, Y
+        else:
+            # get a stack of train_data and labels
+            train_data, labels = self._load_data_and_label()
+            nx = train_data.shape[1]
+            ny = labels.shape[2]
+            stack_x = np.empty((depth,nx,ny,self.channels)) # temporary placeholder for image stack
+            stack_y = np.empty((depth,nx,ny,self.n_class))
+            stack_x[0]=train_data
+            stack_y[0]=labels
+            for i in range(1,depth):
+                train_data, labels = self._load_data_and_label()  # get one image and label everytime
+                stack_x[i]=train_data
+                stack_y[i]=labels
+
+            X = np.zeros((n, depth, nx, ny, self.channels))
+            Y = np.zeros((n, depth, nx, ny, self.n_class))
+            X[0] = stack_x
+            Y[0] = stack_y
+            # empty placeholder
+            stack_x = np.empty((depth,nx,ny,self.channels))
+            stack_y = np.empty((depth,nx,ny,self.n_class))
+            for j in range(1,n):
+                for i in range(depth):
+                    train_data, labels = self._load_data_and_label()  # get one image and label everytime
+                    stack_x[i] = train_data
+                    stack_y[i] = labels
+                X[j] = stack_x
+                Y[j] = stack_y
+            return X, Y
     
 class SimpleDataProvider(BaseDataProvider):
     """
