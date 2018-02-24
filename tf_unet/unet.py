@@ -414,8 +414,8 @@ class Unet(object):
             # Restore model weights from previously saved model
             self.restore(sess, model_path)
 
-            y_dummy = np.empty((x_test.shape[0], x_test.shape[1], x_test.shape[2], self.n_class))
-            prediction = sess.run(self.predicter, feed_dict={self.x: x_test, self.y: y_dummy, self.keep_prob: 1.})
+            # y_dummy = np.empty((x_test.shape[0], x_test.shape[1], x_test.shape[2], self.n_class))
+            prediction = sess.run(self.predicter, feed_dict={self.x: x_test, self.keep_prob: 1.})
 
         return prediction
 
@@ -597,7 +597,7 @@ class Trainer(object):
                 total_loss = 0
                 for step in range((epoch * training_iters), ((epoch + 1) * training_iters)):
                     batch_x, batch_y = data_provider(self.batch_size)
-
+_
                     # Run optimization op (backprop)
                     _, loss, lr, gradients = sess.run(
                         (self.optimizer, self.net.cost, self.learning_rate_node, self.net.gradients_node),
