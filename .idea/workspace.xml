@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3130f3f-67dc-484d-9d29-f56b0a9201b2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/tf_unet.iml" afterPath="$PROJECT_DIR$/.idea/tf_unet.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tf_unet/unet.py" afterPath="$PROJECT_DIR$/tf_unet/unet.py" />
     </list>
@@ -47,8 +45,8 @@
       <file leaf-file-name="unet.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tf_unet/unet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="408" column="48" lean-forward="false" selection-start-line="408" selection-start-column="48" selection-end-line="408" selection-end-column="48" />
+            <state relative-caret-position="432">
+              <caret line="584" column="65" lean-forward="true" selection-start-line="584" selection-start-column="65" selection-end-line="584" selection-end-column="65" />
               <folding>
                 <element signature="e#672#754#0" expanded="true" />
               </folding>
@@ -408,7 +406,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -527,6 +525,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1808">
           <caret line="113" column="57" lean-forward="false" selection-start-line="113" selection-start-column="57" selection-end-line="113" selection-end-column="57" />
+          <folding>
+            <element signature="e#672#754#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -562,6 +563,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1632">
           <caret line="102" column="82" lean-forward="false" selection-start-line="102" selection-start-column="82" selection-end-line="102" selection-end-column="82" />
+          <folding>
+            <element signature="e#672#754#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -590,6 +594,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1600">
           <caret line="102" column="82" lean-forward="false" selection-start-line="102" selection-start-column="82" selection-end-line="102" selection-end-column="82" />
+          <folding>
+            <element signature="e#672#754#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -618,6 +625,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1072">
           <caret line="69" column="93" lean-forward="false" selection-start-line="69" selection-start-column="93" selection-end-line="69" selection-end-column="93" />
+          <folding>
+            <element signature="e#672#754#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -711,6 +721,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="519">
           <caret line="113" column="57" lean-forward="false" selection-start-line="113" selection-start-column="57" selection-end-line="113" selection-end-column="57" />
+          <folding>
+            <element signature="e#672#754#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -740,8 +753,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tf_unet/unet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="408" column="48" lean-forward="false" selection-start-line="408" selection-start-column="48" selection-end-line="408" selection-end-column="48" />
+        <state relative-caret-position="432">
+          <caret line="584" column="65" lean-forward="true" selection-start-line="584" selection-start-column="65" selection-end-line="584" selection-end-column="65" />
           <folding>
             <element signature="e#672#754#0" expanded="true" />
           </folding>
