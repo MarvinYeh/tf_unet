@@ -465,7 +465,7 @@ class Unet3D(Unet):
                                                                      [-1, n_class])))
 
         self.predicter = pixel_wise_softmax_3d(self.logits)
-        self.correct_pred = tf.equal(tf.argmax(self.predicter, 3), tf.argmax(self.y, 3))
+        self.correct_pred = tf.equal(tf.argmax(self.predicter, 4), tf.argmax(self.y, 4))
         self.accuracy = tf.reduce_mean(tf.cast(self.correct_pred, tf.float32))
 
 
@@ -553,7 +553,7 @@ class Trainer(object):
 
         return init
 
-    def train(self, data_provider, output_path, training_iters=10, epochs=100, dropout=0.75, display_step=1,
+    def train(self, data_provider, output_path, training_iters=10, epochs=100, dropout=1, display_step=1,
               restore=False, write_graph=False, prediction_path='prediction'):
         """
         Lauches the training process
@@ -618,7 +618,7 @@ class Trainer(object):
                 self.output_epoch_stats(epoch, total_loss, training_iters, lr)
                 self.store_prediction(sess, test_x, test_y, "epoch_%s" % epoch)
 
-                save_path = self.net.save(sess, save_path)
+            save_path = self.net.save(sess, save_path)
             logging.info("Optimization Finished!")
 
             return save_path
@@ -637,10 +637,11 @@ class Trainer(object):
             logging.info("Verification error= {:.1f}%, loss= {:.4f}".format(error_rate(prediction, batch_y),
                                                                         loss))
             img = np.concatenate((batch_x[...,0],batch_y[...,0],prediction[...,0]),axis = 3)
-
-            for i in range(0,img.shape[0]):
-                for j in range(0,img.shape[1]):
-                    util.save_image(util.to_rgb(img[i,j,...]), "%s/%s.jpg" % (self.prediction_path, name+str(i)+'_'+str(j)))
+            util.save_image(util.to_rgb(img[0, 0, ...]),
+                            "%s/%s.jpg" % (self.prediction_path, name + '_0_0'))
+            # for i in range(0,img.shape[0]):
+            #     for j in range(0,img.shape[1]):
+            #         util.save_image(util.to_rgb(img[i,0,...]), "%s/%s.jpg" % (self.prediction_path, name+'_'+str(i)+'_'+str(j)))
 
         else:
             loss = sess.run(self.net.cost, feed_dict={self.net.x: batch_x,

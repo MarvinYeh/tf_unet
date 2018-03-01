@@ -1,7 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3130f3f-67dc-484d-9d29-f56b0a9201b2" name="Default" comment="" />
+    <list default="true" id="a3130f3f-67dc-484d-9d29-f56b0a9201b2" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init0_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init0_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init0_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init0_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init0_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init0_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init0_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init0_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init1_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init1_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init1_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init1_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init1_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init1_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init1_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/_init1_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_00_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_00_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_00_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_00_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_00_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_00_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_00_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_00_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_01_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_01_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_01_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_01_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_01_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_01_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_01_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_01_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_10_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_10_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_10_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_10_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_10_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_10_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_10_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_10_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_11_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_11_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_11_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_11_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_11_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_11_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_11_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_11_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_20_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_20_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_20_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_20_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_20_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_20_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_20_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_20_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_21_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_21_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_21_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_21_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_21_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_21_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_21_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_21_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_30_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_30_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_30_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_30_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_30_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_30_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_30_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_30_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_31_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_31_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_31_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_31_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_31_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_31_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_31_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_31_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_40_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_40_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_40_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_40_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_40_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_40_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_40_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_40_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_41_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_41_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_41_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_41_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_41_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_41_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_41_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_41_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_50_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_50_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_50_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_50_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_50_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_50_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_50_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_50_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_51_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_51_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_51_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_51_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_51_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_51_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_51_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_51_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_60_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_60_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_60_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_60_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_60_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_60_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_60_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_60_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_61_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_61_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_61_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_61_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_61_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_61_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_61_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_61_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_70_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_70_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_70_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_70_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_70_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_70_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_70_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_70_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_71_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_71_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_71_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_71_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_71_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_71_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_71_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_71_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_80_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_80_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_80_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_80_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_80_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_80_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_80_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_80_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_81_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_81_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_81_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_81_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_81_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_81_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_81_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_81_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_90_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_90_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_90_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_90_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_90_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_90_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_90_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_90_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_91_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_91_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_91_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_91_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_91_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_91_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_91_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/prediction/epoch_91_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/unet_trained/checkpoint" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/unet_trained/events.out.tfevents.1519433213.BG-CY1015-1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/unet_trained/model.cpkt.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/unet_trained/model.cpkt.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/unet_trained/model.cpkt.meta" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/toy_problem.png" afterPath="$PROJECT_DIR$/docs/toy_problem.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/tf_unet.iml" afterPath="$PROJECT_DIR$/.idea/tf_unet.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo_toy_problem.ipynb" afterPath="$PROJECT_DIR$/demo/demo_toy_problem.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/toy_unet3d.ipynb" afterPath="$PROJECT_DIR$/demo/toy_unet3d.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/unet3d_test.py" afterPath="$PROJECT_DIR$/demo/unet3d_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tf_unet/unet.py" afterPath="$PROJECT_DIR$/tf_unet/unet.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,43 +200,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/tf_unet$unet3d_test.coverage" NAME="unet3d_test Coverage Results" MODIFIED="1519432775279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/tf_unet$AC.coverage" NAME="AC Coverage Results" MODIFIED="1519729724192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../On github/Reinforcement-Learning/AC" />
+    <SUITE FILE_PATH="coverage/tf_unet$testcuda.coverage" NAME="testcuda Coverage Results" MODIFIED="1519901164777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../On github/Reinforcement-Learning/AC" />
+    <SUITE FILE_PATH="coverage/tf_unet$unet3d_test.coverage" NAME="unet3d_test Coverage Results" MODIFIED="1519921454973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/tf_unet$demo_toy_problem.coverage" NAME="demo_toy_problem Coverage Results" MODIFIED="1519207395119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/tf_unet$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1519215381448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo_toy_problem.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/demo_toy_problem.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1216">
-              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-              <folding>
-                <element signature="e#29#76#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="unet3d_test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="unet3d_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo/unet3d_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="17" column="61" lean-forward="false" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+            <state relative-caret-position="247">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="unet.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="unet.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tf_unet/unet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="416" column="21" lean-forward="false" selection-start-line="416" selection-start-column="14" selection-end-line="416" selection-end-column="21" />
-              <folding>
-                <element signature="e#672#754#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="801">
+              <caret line="620" column="12" lean-forward="false" selection-start-line="620" selection-start-column="12" selection-end-line="620" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,16 +234,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1425">
               <caret line="77" column="4" lean-forward="false" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="image_gen.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tf_unet/image_gen.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -87,6 +255,9 @@
       <find>session</find>
       <find>same</find>
       <find>prediction</find>
+      <find>batch_size</find>
+      <find>_next_data</find>
+      <find>dropout</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,6 +273,8 @@
         <option value="$PROJECT_DIR$/demo/test2.py" />
         <option value="$PROJECT_DIR$/tf_unet/layers.py" />
         <option value="$PROJECT_DIR$/tf_unet/util.py" />
+        <option value="$PROJECT_DIR$/../On github/Reinforcement-Learning/AC/AC.py" />
+        <option value="$PROJECT_DIR$/../On github/Reinforcement-Learning/AC/testcuda.py" />
         <option value="$PROJECT_DIR$/demo/unet3d_test.py" />
         <option value="$PROJECT_DIR$/tf_unet/unet.py" />
       </list>
@@ -114,10 +287,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-1058" />
+    <option name="y" value="-403" />
+    <option name="width" value="1066" />
+    <option name="height" value="1656" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -137,7 +310,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/New folder" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../On github/Reinforcement-Learning/AC/AC.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -205,6 +378,44 @@
       <module name="tf_unet" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AC" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../On github/Reinforcement-Learning/AC" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tf_unet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../On github/Reinforcement-Learning/AC/AC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="testcuda" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../On github/Reinforcement-Learning/AC" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tf_unet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../On github/Reinforcement-Learning/AC/testcuda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,16 +588,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.unet3d_test" />
       <item index="1" class="java.lang.String" itemvalue="Python.demo_toy_problem" />
       <item index="2" class="java.lang.String" itemvalue="Python.test2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.AC" />
+      <item index="4" class="java.lang.String" itemvalue="Python.testcuda" />
     </list>
     <recent_temporary>
-      <list size="3">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.unet3d_test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.demo_toy_problem" />
+        <item index="1" class="java.lang.String" itemvalue="Python.testcuda" />
+        <item index="2" class="java.lang.String" itemvalue="Python.AC" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.demo_toy_problem" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +619,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1058" y="-403" width="1066" height="1656" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -413,11 +628,11 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1630013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3308668" sideWeight="0.49573562" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988358" sideWeight="0.49573562" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -471,33 +686,17 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="54" />
+      <option name="time" value="61" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tf_unet/image_gen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/unet3d_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/demo_toy_problem.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#29#76#0" expanded="true" />
+            <element signature="e#29#76#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -533,9 +732,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10080">
           <caret line="630" column="37" lean-forward="false" selection-start-line="630" selection-start-column="37" selection-end-line="630" selection-end-column="37" />
-          <folding>
-            <element signature="e#672#754#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -551,7 +748,7 @@
         <state relative-caret-position="1024">
           <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding>
-            <element signature="e#29#76#0" expanded="true" />
+            <element signature="e#29#76#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -571,9 +768,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5904">
           <caret line="369" column="44" lean-forward="false" selection-start-line="369" selection-start-column="44" selection-end-line="369" selection-end-column="44" />
-          <folding>
-            <element signature="e#672#754#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -582,7 +777,7 @@
         <state relative-caret-position="1024">
           <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding>
-            <element signature="e#29#76#0" expanded="true" />
+            <element signature="e#29#76#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -602,9 +797,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5760">
           <caret line="360" column="0" lean-forward="true" selection-start-line="360" selection-start-column="0" selection-end-line="360" selection-end-column="0" />
-          <folding>
-            <element signature="e#672#754#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -613,7 +806,7 @@
         <state relative-caret-position="768">
           <caret line="52" column="8" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
           <folding>
-            <element signature="e#29#76#0" expanded="true" />
+            <element signature="e#29#76#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -633,9 +826,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3680">
           <caret line="230" column="0" lean-forward="false" selection-start-line="230" selection-start-column="0" selection-end-line="232" selection-end-column="36" />
-          <folding>
-            <element signature="e#672#754#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +835,7 @@
         <state relative-caret-position="768">
           <caret line="52" column="8" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
           <folding>
-            <element signature="e#29#76#0" expanded="true" />
+            <element signature="e#29#76#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -654,9 +845,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3312">
           <caret line="207" column="17" lean-forward="true" selection-start-line="207" selection-start-column="17" selection-end-line="207" selection-end-column="17" />
-          <folding>
-            <element signature="e#672#754#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -694,25 +883,8 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/tensorflow/python/framework/common_shapes.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/tensorflow/python/framework/ops.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/tensorflow/python/client/session.py" />
-    <entry file="file://$PROJECT_DIR$/tf_unet/image_util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/h5py/__init__.py" />
     <entry file="file://$PROJECT_DIR$/demo/test2.py" />
-    <entry file="file://$PROJECT_DIR$/demo/demo_toy_problem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding>
-            <element signature="e#29#76#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/colorama/ansitowin32.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/tf_unet/layers.py">
@@ -725,6 +897,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_toy_problem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="e#29#76#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_unet/image_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1416">
+          <caret line="92" column="26" lean-forward="false" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_unet/image_gen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../On github/Reinforcement-Learning/AC/testcuda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../On github/Reinforcement-Learning/AC/AC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tf_unet/util.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">
@@ -733,29 +945,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tf_unet/image_gen.py">
+    <entry file="file://$PROJECT_DIR$/tf_unet/unet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        <state relative-caret-position="801">
+          <caret line="620" column="12" lean-forward="false" selection-start-line="620" selection-start-column="12" selection-end-line="620" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/unet3d_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="17" column="61" lean-forward="false" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+        <state relative-caret-position="247">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tf_unet/unet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="416" column="21" lean-forward="false" selection-start-line="416" selection-start-column="14" selection-end-line="416" selection-end-column="21" />
-          <folding>
-            <element signature="e#672#754#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

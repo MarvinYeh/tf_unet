@@ -13,8 +13,10 @@ generator = image_gen.GrayScaleDataProvider(nx, ny, cnt=20, depth_3d=8)
 x_test, y_test = generator(1)
 
 net = unet.Unet3D(channels=generator.channels, n_class=generator.n_class, layers=3, features_root=16)
-trainer = unet.Trainer(net, optimizer="momentum", opt_kwargs=dict(momentum=0.2))
-path = trainer.train(generator,"./unet_trained", training_iters=20, epochs=10, display_step=2)
+trainer = unet.Trainer(net,optimizer="momentum", opt_kwargs=dict(momentum=0.2))
+# trainer = unet.Trainer(net,optimizer="adam", opt_kwargs=dict(learning_rate=0.1))
+
+path = trainer.train(generator,"./unet_trained", training_iters=10, epochs=50, display_step=2)
 prediction = net.predict("./unet_trained/model.cpkt", x_test)
 
 fig, ax = plt.subplots(1, 3, sharex=True, sharey=True, figsize=(12,5))
